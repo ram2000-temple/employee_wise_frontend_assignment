@@ -25,7 +25,7 @@ A React-based User Management System that allows users to be listed, searched, e
 ### Steps to Install
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/user-management.git
+   git clone https://github.com/ram2000-temple/employee_wise_frontend_assignment.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -78,5 +78,5 @@ A React-based User Management System that allows users to be listed, searched, e
 Pull requests are welcome. Please open an issue to discuss any major changes before submitting a PR.
 
 ## GitHub Repository
-[GitHub Link](https://github.com/your-repo/user-management)
+[GitHub Link]https://github.com/ram2000-temple/employee_wise_frontend_assignment.git
 
