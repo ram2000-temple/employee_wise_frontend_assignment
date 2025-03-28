@@ -1,0 +1,50 @@
+# EmployWise Assignment - Junior Software Engineer
+
+This is a React application that integrates with the Reqres API to perform basic user management functions.
+
+## Features
+
+- **Authentication:** Login using the provided credentials.
+- **User List:** Display a paginated list of users.
+- **Edit & Delete:** Edit user details or delete a user.
+- **Routing:** Implemented using React Router.
+- **Error Handling:** Graceful error messages and form validation.
+- **Responsive UI:** Built with Bootstrap for mobile and desktop.
+
+## Technologies Used
+
+- React
+- React Router
+- Axios
+- Bootstrap
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/employwise-assignment.git
+   cd employwise-assignment
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+4. **Open in browser:**
+   The application will run at `http://localhost:3000/` by default.
+
+## Notes
+
+- Ensure you have Node.js and npm installed before running the commands.
+- Modify the API endpoints in the source code if needed.
+- Happy coding!
+
