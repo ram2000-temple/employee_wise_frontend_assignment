@@ -1,4 +1,4 @@
-# employee_wise_frontend_assignment# User Management System
+# Employee Wise Frontend Assignment - User Management System
 
 A React-based User Management System that allows users to be listed, searched, edited, and deleted using an API. The project includes pagination and a modal for editing user details.
 
@@ -78,5 +78,8 @@ A React-based User Management System that allows users to be listed, searched, e
 Pull requests are welcome. Please open an issue to discuss any major changes before submitting a PR.
 
 ## GitHub Repository
-[GitHub Link]https://github.com/ram2000-temple/employee_wise_frontend_assignment.git
+[GitHub Repository](https://github.com/ram2000-temple/employee_wise_frontend_assignment.git)
+
+## Live Demo
+[Live Application](https://employee-wise-frontend-assignment-zypp.vercel.app/login)
 
